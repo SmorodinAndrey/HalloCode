@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ALFA\\Documents\\Документы\\Examples\\Example001_HalloConcole\\Example001_HalloConcole.csproj": {}
+    "c:\\Users\\ALFA\\Documents\\Документы\\Examples\\Example001_HalloConcole\\Example001_HalloConcole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ALFA\\Documents\\Документы\\Examples\\Example001_HalloConcole\\Example001_HalloConcole.csproj": {
+    "c:\\Users\\ALFA\\Documents\\Документы\\Examples\\Example001_HalloConcole\\Example001_HalloConcole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALFA\\Documents\\Документы\\Examples\\Example001_HalloConcole\\Example001_HalloConcole.csproj",
+        "projectUniqueName": "c:\\Users\\ALFA\\Documents\\Документы\\Examples\\Example001_HalloConcole\\Example001_HalloConcole.csproj",
         "projectName": "Example001_HalloConcole",
-        "projectPath": "C:\\Users\\ALFA\\Documents\\Документы\\Examples\\Example001_HalloConcole\\Example001_HalloConcole.csproj",
+        "projectPath": "c:\\Users\\ALFA\\Documents\\Документы\\Examples\\Example001_HalloConcole\\Example001_HalloConcole.csproj",
         "packagesPath": "C:\\Users\\ALFA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALFA\\Documents\\Документы\\Examples\\Example001_HalloConcole\\obj\\",
+        "outputPath": "c:\\Users\\ALFA\\Documents\\Документы\\Examples\\Example001_HalloConcole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ALFA\\AppData\\Roaming\\NuGet\\NuGet.Config"
