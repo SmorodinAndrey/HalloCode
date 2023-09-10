@@ -1,0 +1,15 @@
+C:\Users\ALFA\Documents\Документы\Examples\Example001_HalloConcole\bin\Debug\net6.0\Example001_HalloConcole.exe
+C:\Users\ALFA\Documents\Документы\Examples\Example001_HalloConcole\bin\Debug\net6.0\Example001_HalloConcole.deps.json
+C:\Users\ALFA\Documents\Документы\Examples\Example001_HalloConcole\bin\Debug\net6.0\Example001_HalloConcole.runtimeconfig.json
+C:\Users\ALFA\Documents\Документы\Examples\Example001_HalloConcole\bin\Debug\net6.0\Example001_HalloConcole.dll
+C:\Users\ALFA\Documents\Документы\Examples\Example001_HalloConcole\bin\Debug\net6.0\Example001_HalloConcole.pdb
+C:\Users\ALFA\Documents\Документы\Examples\Example001_HalloConcole\obj\Debug\net6.0\Example001_HalloConcole.csproj.AssemblyReference.cache
+C:\Users\ALFA\Documents\Документы\Examples\Example001_HalloConcole\obj\Debug\net6.0\Example001_HalloConcole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALFA\Documents\Документы\Examples\Example001_HalloConcole\obj\Debug\net6.0\Example001_HalloConcole.AssemblyInfoInputs.cache
+C:\Users\ALFA\Documents\Документы\Examples\Example001_HalloConcole\obj\Debug\net6.0\Example001_HalloConcole.AssemblyInfo.cs
+C:\Users\ALFA\Documents\Документы\Examples\Example001_HalloConcole\obj\Debug\net6.0\Example001_HalloConcole.csproj.CoreCompileInputs.cache
+C:\Users\ALFA\Documents\Документы\Examples\Example001_HalloConcole\obj\Debug\net6.0\Example001_HalloConcole.dll
+C:\Users\ALFA\Documents\Документы\Examples\Example001_HalloConcole\obj\Debug\net6.0\refint\Example001_HalloConcole.dll
+C:\Users\ALFA\Documents\Документы\Examples\Example001_HalloConcole\obj\Debug\net6.0\Example001_HalloConcole.pdb
+C:\Users\ALFA\Documents\Документы\Examples\Example001_HalloConcole\obj\Debug\net6.0\Example001_HalloConcole.genruntimeconfig.cache
+C:\Users\ALFA\Documents\Документы\Examples\Example001_HalloConcole\obj\Debug\net6.0\ref\Example001_HalloConcole.dll
